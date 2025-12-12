@@ -1,0 +1,53 @@
+<!DOCTYPE htlm>
+<htlm lang="cs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewort" content="width=device-width, initial-sace=1.0">
+<title> SPŠE KANTÝNA</title>
+<ling rel="stylesheet href=style.css">
+<link rel="stylesheet" href="">
+</head>
+<body>
+    <main>
+        <header>
+            <h1>SPŠE KANTÝNA</h1>
+        </header>
+        <section class="menu-container">
+            <article class="menu-category">
+                <h2>Ropné vrty</h2>
+                <div class="menu-item">
+                       <p>French Vanilla párek</p>
+                       <p class="price">3.00</p>
+                        <p>Samurai harakiri párek</p>
+                        <p class="price">3.75</p>
+                        <p>Pumpkin Spice Latté</p>
+                        <p class="price">3.50</p>
+                        <p>Hazelnut párek</p>
+                        <p class="price">4.00</p>
+                        <p>Dědovo potěšení</p>
+                        <p class="price">4.50</p>
+                     </div>
+            </article>
+
+            <article class="menu-catagory">
+                <h2>Deserts</h2>
+                    <p>White Monster</p>
+                    <p class="price">1.50</p>
+                    <p>Cherry Pie vaptčko</p>
+                    <p class="price">2.50</p>
+                    <p>Cheesecake snus</p>
+                    <p class="price">3.00</p>
+                    <p>Cinnamon Roll siberia</p>
+                    <p class="price">2.50</p>
+                </div>
+            </article>
+        </section>
+
+        <footer>
+            <p>Navštivte naše stránky</p>
+            <p>U Karla IV., Pardubice</p>
+        </footer>
+    </main>
+
+</body>
+</htlm>
